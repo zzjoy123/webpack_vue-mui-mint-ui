@@ -2,7 +2,7 @@
     <div>
       <!-- 顶部header区域 -->
       <mt-header fixed title="zzjoy-vue"></mt-header>
-      <h1>git where</h1>
+      <h1>git where? git/config/url</h1>
       <!-- 中间路由router-view区域 -->
 
       <!-- 底部tabbar区域 -->
